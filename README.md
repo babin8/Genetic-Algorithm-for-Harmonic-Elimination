@@ -29,4 +29,4 @@ Read the full summary at:
 [Project_summary.pdf](https://github.com/babin8/Genetic-Algorithm-for-Harmonic-Elimination/blob/main/Project_Summary.pdf)
 
 And the research paper at:
-Research_paper.pdf
+[Research_paper.pdf](https://github.com/babin8/Genetic-Algorithm-for-Harmonic-Elimination/blob/main/Research_paper.pdf)
