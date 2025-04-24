@@ -1,4 +1,7 @@
 # Genetic-Algorithm-for-Harmonic-Elimination
+
+Tools used: Grok 3, Canva, Figma
+
 This is a reiteration of my final project for my Bachelor's in Electrical and Electronics Engineering. I used Grok to study the report, extract a summary of the project and write me a research paper on the topic.
 
 The full conversation can be found at:
@@ -23,7 +26,7 @@ Optimization of Switching Angles in a Five-Level Cascaded H-Bridge Inverter Usin
 11. Result Comparison: Confirmed harmonic reduction and project success.
 
 Read the full summary at:
-Project_summary.docx
+Project_summary.pdf
 
 And the research paper at:
-Research_paper.docx
+Research_paper.pdf
