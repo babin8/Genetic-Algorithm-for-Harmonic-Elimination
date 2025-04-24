@@ -4,8 +4,7 @@ Tools used: Grok 3, Canva, Figma
 
 This is a reiteration of my final project for my Bachelor's in Electrical and Electronics Engineering. I used Grok to study the report, extract a summary of the project and write me a research paper on the topic.
 
-The full conversation can be found at:
-https://grok.com/share/c2hhcmQtMg%3D%3D_c8403479-6fd9-41c8-a412-874ab81293d1
+[Grok Coversation](https://grok.com/share/c2hhcmQtMg%3D%3D_c8403479-6fd9-41c8-a412-874ab81293d1)
 
 **Project Title**
 
