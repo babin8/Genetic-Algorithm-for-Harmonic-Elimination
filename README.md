@@ -24,8 +24,6 @@ Optimization of Switching Angles in a Five-Level Cascaded H-Bridge Inverter Usin
 10. Hardware Testing: Measured THD = 17.82% with optimized angles.
 11. Result Comparison: Confirmed harmonic reduction and project success.
 
-Read the full summary at:
-[Project_summary.pdf](https://github.com/babin8/Genetic-Algorithm-for-Harmonic-Elimination/blob/main/Project_Summary.pdf)
+[Full Summary](https://github.com/babin8/Genetic-Algorithm-for-Harmonic-Elimination/blob/main/Project_Summary.pdf)
 
-And the research paper at:
-[Research_paper.pdf](https://github.com/babin8/Genetic-Algorithm-for-Harmonic-Elimination/blob/main/Research_paper.pdf)
+[Research Paper](https://github.com/babin8/Genetic-Algorithm-for-Harmonic-Elimination/blob/main/Research_paper.pdf)
