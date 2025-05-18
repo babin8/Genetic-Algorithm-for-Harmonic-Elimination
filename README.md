@@ -1,4 +1,4 @@
-# Genetic-Algorithm-for-Harmonic-Elimination
+# Genetic Algorithm for Harmonic Elimination in an Multilevel Inverter using Selective Harmonic Elimination
 
 Tools used: Grok 3, Canva, Figma
 
